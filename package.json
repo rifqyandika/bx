@@ -1,0 +1,30 @@
+{
+  "name": "mct",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@tailwindcss/forms": "^0.3.4",
+    "@types/react-transition-group": "^4.4.3",
+    "dayjs": "^1.8.19",
+    "isomorphic-unfetch": "^3.0.0",
+    "mongodb": "^3.5.2",
+    "next": "9.2.1",
+    "next-connect": "^0.6.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.8",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  }
+}
